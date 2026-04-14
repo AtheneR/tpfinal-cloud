@@ -13,7 +13,7 @@
 
 <style>
   template{
-    background: #154862;
+    background-color: #154862;
     color:#E4E3E2;
   }
 </style>
