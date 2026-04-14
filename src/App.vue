@@ -10,3 +10,10 @@
     <p>Build : {{ buildId }}</p>
   </header>
 </template>
+
+<style>
+  template{
+    background: #154862;
+    color:#E4E3E2;
+  }
+</style>
