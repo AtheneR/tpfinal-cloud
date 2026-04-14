@@ -12,8 +12,7 @@
 </template>
 
 <style>
-  template{
-    background-color: #154862;
-    color:#E4E3E2;
+  p{
+    color:#149560;
   }
 </style>
